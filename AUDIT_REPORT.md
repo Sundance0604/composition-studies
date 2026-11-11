@@ -2,7 +2,7 @@
 
 审计日期：2026-11-11（Asia/Shanghai）  
 审计目录：`D:\mycodelife\workshop\composition-studies`  
-状态：审计完成；文件整理方案待用户确认；原谱未修改。
+状态：初始审计完成；正文 §1–10 与附录 A–B 保留整理前快照，后续整理见附录 C；原谱未修改。
 
 ## 1. 审计结论与边界
 
@@ -35,11 +35,11 @@
 
 本地来源入口：
 
-- [项目治理文件](D:/mycodelife/workshop/composition-studies/agents.md)
-- [原始 MuseScore 提交](D:/mycodelife/workshop/composition-studies/practice01.mscz)
-- [ChatGPT 历史批改](<D:/mycodelife/workshop/composition-studies/judgement of pratice01.md>)
-- [勋伯格教材](<D:/mycodelife/workshop/composition-studies/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf>)
-- [H&C 本地笔记](<D:/mycodelife/workshop/composition-studies/2026-04-14 - Lecture Note_ Basics of Classical Harmony & Counterpoint - 2027521695221577722.md>)
+- [项目治理文件](D:/mycodelife/workshop/composition-studies/AGENTS.md)
+- [原始 MuseScore 提交](D:/mycodelife/workshop/composition-studies/exercises/practice01/original/practice01.mscz)
+- [ChatGPT 历史批改](D:/mycodelife/workshop/composition-studies/exercises/practice01/reviews/chatgpt-original-review.md)
+- [勋伯格教材（仅本地）](<D:/mycodelife/workshop/composition-studies/sources/schoenberg/local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf>)
+- [H&C 本地笔记](D:/mycodelife/workshop/composition-studies/sources/harmony-counterpoint/original-notes.md)
 
 ### 2.1 本次所需材料是否齐备
 
@@ -214,14 +214,14 @@ G §12 所记 D♭ 大调、3/4、8 小节、2+2+4、D.960、动机发展及 PAC
 
 | 小节 | 右手（各音依次排列） | 左手（起拍与完整音高） |
 |---|---|---|
-| 1 | D♭5(1)，D♭5(1)，C5(1) | b1 [D♭2 F2 A♭2](2)；b3 [C2 F2 A♭2](1)；两和弦间 Slur |
-| 2 | D♭5(1)，E♭5(1)，F5(1) | b1 [D♭2 F2 B♭2](2)；b3 [A♭2 D♭3 F3](1) |
-| 3 | E♭5(1/2)，D♭5(1/2)，E♭5(1)，E♭5(1) | b1 [D♭2 B♭2 D♭3 E♭3](1)；b2 [A♭2 C3 E♭3](2) |
-| 4 | D♭5(1/2)，C5(1/2)，D♭5(1)，休止(1) | b1 [D♭2 F2 A♭2](2)；b3 休止(1) |
-| 5 | F5(1)，A♭5(1)，A♭5(1) | b1 [F2 A♭2 D♭3](3) |
-| 6 | A♭5(1/2)，B♭5(1/2)，C6(1)，F5(1) | b1 [E♭2 A♭2 C3](2)；b3 [D♭2 F2 A♭2](1)，三音分别 Tie 至 m7 |
-| 7 | F5(1)，A♭5(1)，D♭5(1) | b1 [D♭2 F2 A♭2](3)，承接 m6b3，三个音不重新发音 |
-| 8 | B♭4(1/2)，D♭5(1/2)，C5(1)，D♭5(1) | b1 [B♭2 D♭3 F3](2)；b3 [F2 A♭2 C3](1) |
+| 1 | D♭5(1)，D♭5(1)，C5(1) | b1 [D♭2 F2 A♭2]（2）；b3 [C2 F2 A♭2]（1）；两和弦间 Slur |
+| 2 | D♭5(1)，E♭5(1)，F5(1) | b1 [D♭2 F2 B♭2]（2）；b3 [A♭2 D♭3 F3]（1） |
+| 3 | E♭5(1/2)，D♭5(1/2)，E♭5(1)，E♭5(1) | b1 [D♭2 B♭2 D♭3 E♭3]（1）；b2 [A♭2 C3 E♭3]（2） |
+| 4 | D♭5(1/2)，C5(1/2)，D♭5(1)，休止(1) | b1 [D♭2 F2 A♭2]（2）；b3 休止(1) |
+| 5 | F5(1)，A♭5(1)，A♭5(1) | b1 [F2 A♭2 D♭3]（3） |
+| 6 | A♭5(1/2)，B♭5(1/2)，C6(1)，F5(1) | b1 [E♭2 A♭2 C3]（2）；b3 [D♭2 F2 A♭2]（1），三音分别 Tie 至 m7 |
+| 7 | F5(1)，A♭5(1)，D♭5(1) | b1 [D♭2 F2 A♭2]（3），承接 m6b3，三个音不重新发音 |
+| 8 | B♭4(1/2)，D♭5(1/2)，C5(1)，D♭5(1) | b1 [B♭2 D♭3 F3]（2）；b3 [F2 A♭2 C3]（1） |
 
 ### 6.4 低音线与和弦根音分开记录
 
@@ -454,3 +454,30 @@ Sentence 的基本框架与 continuation 的发展特征可参照[Open Music The
 - 教材使用 PDF 元数据／书签定位及 Poppler 页面渲染；未用空的文本提取结果编造正文。已核读页面和仅书签定位页面在 §3 分开登记。
 - 补充理论核对仅使用 MuseScore 官方文档、大学教材及开放音乐理论教材；网络资料用于定义核对，不代替 S、H、T 的本地证据。
 - 所有解析、预览均为审计操作。最终项目文件集合应为原 5 项＋`AUDIT_REPORT.md`；无整理目录、无新增乐谱、无导出谱、无提交与远端写入。
+
+## 附录 C. 用户授权后的整理记录（2026-11-11）
+
+本附录记录初始审计之后的实际整理，避免把正文的历史快照误当成整理后的目录状态。用户先指定远端仓库，随后要求“把当前文件夹整理好后再推送”，并明确回复“可以，都公开”，授权公开原谱、笔记、批改、审计及课程记录。完整教材仍按此前说明保留本地，不纳入公开提交。
+
+原始审计报告保存在本地提交 `85ca961`；当前更新其状态说明、来源入口链接并附加本整理记录，同时修正转录表中和弦括号被 Markdown 误识别为链接的排版问题，保留审计时的文件清单、分析与待确认事项。
+
+| 整理前路径 | 整理后路径 | 原件处理 |
+|---|---|---|
+| `agents.md` | `AGENTS.md` | 仅统一文件名大小写，内容不变 |
+| `practice01.mscz` | `exercises/practice01/original/practice01.mscz` | 字节不变，无修订 |
+| `judgement of pratice01.md` | `exercises/practice01/reviews/chatgpt-original-review.md` | 字节不变，作为历史反馈保存 |
+| `2026-04-14 - Lecture Note_ Basics of Classical Harmony & Counterpoint - 2027521695221577722.md` | `sources/harmony-counterpoint/original-notes.md` | 字节不变，来源元数据及远程图片链接保留 |
+| `Schoenbergs Models for Beginners in Composition - Bookmarked.pdf` | `sources/schoenberg/local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf` | 字节不变；精确路径忽略，只在本地保存 |
+
+新增目录记录：
+
+- 根目录 `README.md`、`CHANGELOG.md`；保留远端原有 `LICENSE`。
+- `curriculum/curriculum-map.md`、`progress.md`、`hc-mastery.md`、`notation-conventions.md`。
+- `sources/harmony-counterpoint/hc-lesson-index.md`、`notes-errata.md`，与原笔记分开。
+- `sources/schoenberg/bibliography.md`、`exercise-index.md`，不分发完整扫描件。
+- `exercises/practice01/brief.md`、`progress.md`、`reviews/independent-review.md`，独立核验来源于本报告 §6–7。
+- `portfolio/selected-works.md`，明确没有已确认的 Completed 或入选作品。
+
+目录采用档案标识 `practice01`，因为 No. 1／No. 6 的编号关系仍未确认。原命题仍缺失，当前要求文件只是治理基线摘要；没有编造原命题或新习作。状态保持 Under Review，用户授权整理和公开不等于接受具体音乐修改建议。
+
+Git 已在本地初始化并关联 `git@github.com:Sundance0604/composition-studies.git`。远端既有 `main` 的初始提交与 LICENSE 保留，采用追加提交和正常推送，不强制覆盖远端历史。所有公开范围以最终提交文件清单为准；五项原件的 SHA-256 应继续与附录 A 一致。

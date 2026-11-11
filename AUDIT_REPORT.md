@@ -2,7 +2,7 @@
 
 审计日期：2026-11-11（Asia/Shanghai）  
 审计目录：`D:\mycodelife\workshop\composition-studies`  
-状态：初始审计完成；正文 §1–10 与附录 A–B 保留整理前快照，后续整理见附录 C；原谱未修改。
+状态：初始审计完成；正文 §1–10 与附录 A–B 保留整理前快照，后续整理与 PDF 上传见附录 C–D；原谱未修改。
 
 ## 1. 审计结论与边界
 
@@ -38,7 +38,7 @@
 - [项目治理文件](D:/mycodelife/workshop/composition-studies/AGENTS.md)
 - [原始 MuseScore 提交](D:/mycodelife/workshop/composition-studies/exercises/practice01/original/practice01.mscz)
 - [ChatGPT 历史批改](D:/mycodelife/workshop/composition-studies/exercises/practice01/reviews/chatgpt-original-review.md)
-- [勋伯格教材（仅本地）](<D:/mycodelife/workshop/composition-studies/sources/schoenberg/local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf>)
+- [勋伯格教材](<D:/mycodelife/workshop/composition-studies/sources/schoenberg/local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf>)
 - [H&C 本地笔记](D:/mycodelife/workshop/composition-studies/sources/harmony-counterpoint/original-notes.md)
 
 ### 2.1 本次所需材料是否齐备
@@ -481,3 +481,9 @@ Sentence 的基本框架与 continuation 的发展特征可参照[Open Music The
 目录采用档案标识 `practice01`，因为 No. 1／No. 6 的编号关系仍未确认。原命题仍缺失，当前要求文件只是治理基线摘要；没有编造原命题或新习作。状态保持 Under Review，用户授权整理和公开不等于接受具体音乐修改建议。
 
 Git 已在本地初始化并关联 `git@github.com:Sundance0604/composition-studies.git`。远端既有 `main` 的初始提交与 LICENSE 保留，采用追加提交和正常推送，不强制覆盖远端历史。所有公开范围以最终提交文件清单为准；五项原件的 SHA-256 应继续与附录 A 一致。
+
+## 附录 D. 用户要求上传教材 PDF（2026-11-11）
+
+首次整理推送后，用户进一步明确要求“PDF需要上传”。据此将 `sources/schoenberg/local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf` 纳入版本控制，取消对应忽略规则，更新 README、教材书目与独立核验记录中的当前访问说明。此前正文及附录 C 关于不上传 PDF 的叙述保留为历史记录，以本附录所记后续指令为准。
+
+PDF 路径及原始内容不变，大小为 15,583,531 字节，SHA-256 仍为 `417645C6FF4BF855A0FD5562FF2163807FBA91982C68705F13C9048C9F464CE4`。本次只调整存档与发布范围，不修改乐谱、教材内容、技术分析或学习进度。

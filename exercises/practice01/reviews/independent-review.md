@@ -2,7 +2,7 @@
 
 核验日期：2026-11-11。来源：根目录 [AUDIT_REPORT.md](../../../AUDIT_REPORT.md) §6–7，保留原节号便于对照；本次整理未加入新的音乐结论。
 
-标识：S＝[原谱](../original/practice01.mscz)，R＝[ChatGPT 历史批改](chatgpt-original-review.md)，G＝[AGENTS.md](../../../AGENTS.md)，H＝[H&C 原笔记](../../../sources/harmony-counterpoint/original-notes.md)，T＝本地勋伯格教材（不公开扫描件）。
+标识：S＝[原谱](../original/practice01.mscz)，R＝[ChatGPT 历史批改](chatgpt-original-review.md)，G＝[AGENTS.md](../../../AGENTS.md)，H＝[H&C 原笔记](../../../sources/harmony-counterpoint/original-notes.md)，T＝[勋伯格教材 PDF](<../../../sources/schoenberg/local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf>)（用户随后明确要求上传，核验内容未因此改变）。
 
 被评原谱 SHA-256：`12CCA503467E753872A9683073180B2F35EAA1ED011505B5E7E08325104A50B2`。历史批改逐字节保留，所有建议均未落实成修订谱。本核验是二级分析，非教材原文或用户创作意图。
 

@@ -8,7 +8,7 @@
 - [初始只读审计报告](AUDIT_REPORT.md)：2026-11-11 整理前快照；附录 C 记录之后的整理。
 - [课程路线](curriculum/curriculum-map.md)、[总进度](curriculum/progress.md)、[概念掌握度](curriculum/hc-mastery.md)
 - [H&C 课次与本次作品对照](sources/harmony-counterpoint/hc-lesson-index.md)、[笔记勘误](sources/harmony-counterpoint/notes-errata.md)
-- [教材书目](sources/schoenberg/bibliography.md)、[教材章节与谱例索引](sources/schoenberg/exercise-index.md)
+- [教材 PDF](<sources/schoenberg/local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf>)、[教材书目](sources/schoenberg/bibliography.md)、[教材章节与谱例索引](sources/schoenberg/exercise-index.md)
 - [当前习作要求摘要](exercises/practice01/brief.md)、[原谱](exercises/practice01/original/practice01.mscz)、[单项进度](exercises/practice01/progress.md)
 - [ChatGPT 历史批改](exercises/practice01/reviews/chatgpt-original-review.md)、[独立核验](exercises/practice01/reviews/independent-review.md)
 - [作品集状态](portfolio/selected-works.md)、[变更记录](CHANGELOG.md)
@@ -32,7 +32,7 @@ README.md
 curriculum/                    课程路线、进度、掌握度、记谱约定
 sources/
   harmony-counterpoint/        原笔记、课次索引、独立勘误
-  schoenberg/                  书目、章节索引；local/ 仅在本机保存完整教材
+  schoenberg/                  教材 PDF、书目与章节索引；保留原归档路径 local/
 exercises/
   practice01/
     brief.md                   现有命题摘要；原命题缺失
@@ -44,8 +44,8 @@ portfolio/                     已确认完成／入选作品的登记
 
 没有文件的 revisions、exports、未来习作和曲目分析目录暂不预建。以后有实际材料再增加，保持原始提交、修订与衍生文件的区别。
 
-## 本地教材与来源
+## 教材与来源
 
-完整教材保留在本机 `sources/schoenberg/local/`，已被 `.gitignore` 排除，不随公开仓库分发。仓库保存书目与页码索引。H&C 原笔记中的 44 张图片仍是原远程链接，没有复制图片；其内容与链接状态未逐张验证。外部教材、图片和引用内容的权利不因本仓库附有 LICENSE 而改变。
+用户于 2026-11-11 明确要求“PDF需要上传”，因此完整教材 PDF 已纳入版本控制，路径仍为 `sources/schoenberg/local/`；`local` 是此前整理时保留的目录名，不再表示文件被忽略或仅供本机使用。PDF 原始内容与 SHA-256 保持不变，书目与页码索引另存。H&C 原笔记中的 44 张图片仍是原远程链接，没有复制图片；其内容与链接状态未逐张验证。外部教材、图片和引用内容的权利不因本仓库附有 LICENSE 而改变。
 
 本次整理保留了远端既有的 LICENSE 和初始提交。整理没有新增作曲习作，没有替用户修谱，也没有将任何概念擅自标为独立掌握或可迁移。

@@ -4,7 +4,7 @@ Arnold Schoenberg，*Schoenberg’s Models for Beginners in Composition*，Gordo
 
 依据本地 PDF 的题名页与版权页（PDF 4、5）。本扫描件共 273 个 PDF 页面，含编者评论、勋伯格教材部分和附录；不能把编者评论与附录一律当成勋伯格原文。谱例页保留其他历史版次的版权信息，不因此把本文件登记为 1943 年版。
 
-本机资料路径：`local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf`。完整扫描件只在本地保存，已忽略，不随仓库公开。其 SHA-256：
+资料：[教材 PDF](<local/Schoenbergs Models for Beginners in Composition - Bookmarked.pdf>)。用户于 2026-11-11 明确要求上传 PDF，此文件现已纳入版本控制；保留原归档路径，不再适用先前“仅本地保存”的说明。原始文件 SHA-256：
 
 `417645C6FF4BF855A0FD5562FF2163807FBA91982C68705F13C9048C9F464CE4`
 

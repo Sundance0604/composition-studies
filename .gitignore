@@ -1,1 +1,4 @@
 # Add local-only or temporary artifacts here when needed.
+
+# MuseScore automatic backups remain on the local computer.
+**/.mscbackup/
